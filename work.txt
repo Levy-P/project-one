@@ -1,6 +1,3 @@
-create page home
-create page setting
-create video
-create kotlin page
-create levy_master_pagina
-create levy_pagina
+Create page webview
+Create page dashboard
+Create page login
